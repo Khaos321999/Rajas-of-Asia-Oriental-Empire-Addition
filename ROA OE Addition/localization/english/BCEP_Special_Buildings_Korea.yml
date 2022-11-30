@@ -1,0 +1,25 @@
+l_english:
+
+ building_becp_special_manyuetai:0 "Full Moon Palace"
+ building_becp_special_anguosi:0 "Anguksa Temple Ruins"
+ building_becp_special_anhegong:0 "Anhak Palace"
+ building_becp_special_haiyinsi:0 "Temple of the Ocean Mudra"
+ building_becp_special_jingfugong:0 "Gyeongbokgung Palace"
+
+ building_type_becp_special_manyuetai:0 "Full Moon Palace"
+ building_type_becp_special_anguosi:0 "Anguksa Temple Ruins"
+ building_type_becp_special_anhegong:0 "Anhak Palace"
+ building_type_becp_special_haiyinsi:0 "Temple of the Ocean Mudra"
+ building_type_becp_special_jingfugong:0 "Gyeongbokgung Palace"
+
+ building_becp_special_manyuetai_desc:0 "$building_type_becp_special_manyuetai_desc$"
+ building_becp_special_anguosi_desc:0 "$building_type_becp_special_anguosi_desc$"
+ building_becp_special_anhegong_desc:0 "$building_type_becp_special_anhegong_desc$"
+ building_becp_special_haiyinsi_desc:0 "$building_type_becp_special_haiyinsi_desc$"
+ building_becp_special_jingfugong_desc:0 "$building_type_becp_special_jingfugong_desc$"
+
+ building_type_becp_special_manyuetai_desc:0 "Imperial Palace built at the bginning of the Goryeo Dynasty, its the residence of the royal family and where affairs of state were conducted."
+ building_type_becp_special_anguosi_desc:0 "A Buddhist temple built in 466 during the Koguryo period, the temple fell into ruin after the decline of Buddhism on the Korean peninsula."
+ building_type_becp_special_anhegong_desc:0 "It was built in 427 AD when the royal residence of the Goguryeo Kingdom moved its capital to Pyongyang."
+ building_type_becp_special_haiyinsi_desc:0 "It was built in the 3rd year of King Ayejang of Silla by two monks, Soonyeong and Rikjeong, and the so-called 'sea seal' comes from the 'three flavours of the sea seal' of the Avatamsaka Sutra, which refers to the world of right enlightenment of the Bodhisattva and to our uncontaminated, clean and unspoilt original mind."
+ building_type_becp_special_jingfugong_desc:0 "The largest of the Five Grand Palaces built by the Joseon dynasty, Gyeongbokgung served as the home of Kings of the Joseon dynasty, the Kings' households, as well as the government of Joseon."

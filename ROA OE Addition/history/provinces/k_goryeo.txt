@@ -1,0 +1,296 @@
+﻿#k_goryeo_china
+#d_dongya_china #东濊/江原道
+#c_hexizhou_china #何瑟罗州/河西/溟州/悉直
+#b_kangnung_china
+11393 = {
+    culture = yemo
+	religion = shaman 
+	holding = castle_holding
+}
+
+#b_tonghae_china
+13194 = {
+
+
+	holding = city_holding
+}
+
+#b_ulchin_china
+13195 = {
+
+
+	holding = none
+}
+
+#c_shouruozhou_china #首若州/朔州/比列忽州
+#b_chunchon_china
+13197 = {
+    culture = goguryeo
+	religion = mahayana
+	holding = castle_holding
+}
+#b_cheorwon_china
+13205 = {
+
+
+	holding = none
+}
+
+#c_anbyun_china
+#b_wonsan_china
+13196 = {
+    culture = yemo
+	religion = shaman
+	holding = castle_holding
+}
+
+#b_sogcho_china
+13192 = {
+
+
+	holding = none
+}
+#b_congshiting_china
+13233 = {
+
+
+	holding = none
+}
+
+
+
+
+
+#d_goguryeo_china  #高句丽
+#c_hanju_china #汉山州/汉州/京畿道gyeonggido
+#b_weili_china
+13206 = {
+    culture = goguryeo
+	religion = mahayana
+	holding = castle_holding
+	special_building_slot = becp_special_jingfugong
+}
+#b_nanhanseong_china
+13207 = {
+
+
+	holding = castle_holding
+}
+#b_ganghwa_china
+13208 = {
+
+
+	holding = church_holding
+}
+#b_suwon_china
+13209 = {
+
+
+	holding = none
+}
+
+#c_chunwon_china
+#b_chunju_china
+13210 = {
+	culture = goguryeo
+	religion = maitreya
+	holding = castle_holding
+}
+
+#b_wonju_china
+13198 = {
+    culture = yemo
+	religion = shaman 
+	holding = city_holding
+}
+
+#b_chechon_china
+13200 = {
+
+
+	holding = none
+}
+
+#c_hwanghae_china #黄海道
+#b_kaeseong_china
+13204 = {
+    culture = goguryeo
+	religion = maitreya
+	holding = castle_holding
+	special_building_slot = becp_special_manyuetai
+}
+#b_hwangju_china
+13201 = {
+
+
+	holding = none
+}
+#b_sariwon_china
+13202 = {
+
+
+	holding = city_holding
+}
+#b_haeju_china
+13203 = {
+
+
+	holding = none
+}
+
+
+#d_baekje_china #百济
+#c_xiongshanzhou_china #熊川州/所夫里/忠清道
+#b_gongju_buyeo_sibi_china
+13213 = {
+    culture = buyeo
+	religion = zenzong 
+	holding = castle_holding
+}
+#b_chongju_china
+13215 = {
+
+
+	holding = castle_holding
+}
+#b_sosan_china
+13214 = {
+
+
+	holding = none
+}
+
+#c_wanshanzhou_china  #完山州
+#b_chonju_china
+13215 = {
+    culture = buyeo
+	religion = kegon 
+	holding = castle_holding
+}
+#b_iksan_china
+13216 = {
+
+
+	holding = none
+}
+#b_namwon_china
+13217 = {
+
+
+	holding = none
+}
+		
+#c_faluozhou_china #武珍州/发罗
+#b_naju_china
+13218 = {
+    culture = buyeo
+	religion = zenzong 
+	holding = castle_holding
+}
+#b_yosn_china
+13219 = {
+
+
+	holding = none
+}
+
+#d_danluo_china
+#c_danluo_china
+#b_danluo_china
+13211 = {
+    culture = gayaa
+	religion = vajrayana 
+	holding = castle_holding
+}
+
+#d_sila_china #新罗/庆尚道
+#c_shaliangzhou_china
+#b_gyeogju_china
+13224 = {
+    culture = senhan
+	religion = mahayana
+	holding = castle_holding
+}
+#b_yangsan_china
+13225 = {
+
+
+	holding = none
+}
+#b_SeokguramGrotto_china
+13228 = {
+
+
+	holding = church_holding
+}
+
+#c_dalseong_china
+#b_dalseong_china
+13226 = {
+    culture = senhan
+	religion = mahayana
+	holding = castle_holding
+}
+#b_HaeinsaTemple_china
+13227 = {
+
+	holding = church_holding
+}
+
+#c_shangfazhou_china #沙伐州/尚州
+#b_sanju_china
+13229 = {
+    culture = senhan
+	religion = mahayana
+	holding = castle_holding
+}
+#b_anton_china
+13230 = {
+
+	holding = none
+}
+#b_yongju_china
+13199 = {
+
+
+	holding = none
+}
+
+
+#d_gaya_china #迦倻
+#c_gayaa_china #迦倻
+#b_kimhae_china
+13222 = {
+    culture = gayaa
+	religion = tiantai
+	holding = castle_holding
+}
+#b_changwon_china
+13223 = {
+
+	holding = city_holding
+}
+
+#c_juliezhou_china #居烈州/菁州/康州
+#b_jinju_china
+13220 = {
+    culture = gayaa
+	religion = mahayana
+	holding = city_holding
+}
+#b_sachon_china
+13221 = {
+
+	holding = none
+}
+#b_haman_china
+13231 = {
+
+	holding = none
+}
+#b_goryeong_china
+13232 = {
+
+	holding = castle_holding
+	special_building_slot = becp_special_haiyinsi
+}

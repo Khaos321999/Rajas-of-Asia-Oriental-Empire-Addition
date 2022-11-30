@@ -12992,26 +12992,26 @@
 12982;160;145;52;Palau;x;                                                   
 12983;52;198;208;Jiaoling;x;                                                
 12984;49;39;182;Yellow River;x;                                             
-12985;90;135;152;North China Sea;x;                                         
-12986;83;152;178;North China Sea;x;                                         
-12987;129;123;208;North China Sea;x;                                        
-12988;165;214;232;North China Sea;x;                                        
-12989;95;146;165;North China Sea;x;                                         
-12990;41;126;157;North China Sea;x;                                         
-12991;72;67;138;North China Sea;x;                                          
+12985;90;135;152;Sea of Japan;x;                                            
+12986;83;152;178;Tartar Strait;x;                                           
+12987;129;123;208;Yellow Sea;x;                                             
+12988;165;214;232;Sakhalin Gulf;x;                                          
+12989;95;146;165;Sea of Japan;x;                                            
+12990;41;126;157;Sea of Japan;x;                                            
+12991;72;67;138;Bohai Sea;x;                                                
 12992;146;140;229;Yellow River;x;                                           
 12993;25;61;109;North China Sea;x;                                          
-12994;81;71;221;North China Sea;x;                                          
+12994;81;71;221;Korea Bay;x;                                                
 12995;67;92;138;North China Sea;x;                                          
-12996;79;185;224;North China Sea;x;                                         
+12996;79;185;224;Sea of Japan;x;                                            
 12997;52;110;133;Yangtze River;x;                                           
 12998;25;47;99;Yangtze River;x;                                             
 12999;69;96;158;Yangtze River;x;                                            
 13000;130;156;217;Yangtze River;x;                                          
-13001;39;150;192;North China Sea;x;                                         
+13001;39;150;192;Yellow Sea;x;                                              
 13002;83;116;190;Yangtze River;x;                                           
 13003;66;90;145;Yangtze River;x;                                            
-13004;92;125;200;North China Sea;x;                                         
+13004;92;125;200;Korea Strait;x;                                            
 13005;66;61;130;Yellow River;x;                                             
 13006;129;125;194;Yellow River;x;                                           
 13007;153;55;52;13007;x;                                                    
@@ -13197,5 +13197,48 @@
 13187;82;2;248;KuviehEast;x;                                                
 13188;120;81;102;Sea of Okhotsk;x;                                          
 13189;19;90;52;Sea of Okhotsk;x;                                            
-13190;135;103;60;Sea of Okhotsk;x;                                          
-13191;79;109;92;Sea of Okhotsk;x;                                           
+13190;135;103;60;Terpeniya Bay;x;                                           
+13191;79;109;92;Aniva Bay;x;                                                
+13192;57;4;76;sogcho;x;                                                     
+13193;58;4;126;kangnung;x;                                                  
+13194;59;4;180;tonghae;x;                                                   
+13195;60;4;248;ulchin;x;                                                    
+13196;61;4;13;wonsan;x;###                                                  
+13197;62;4;76;chunchon;x;                                                   
+13198;63;4;126;wonju;x;                                                     
+13199;64;4;180;yongju;x;                                                    
+13200;65;4;248;chechon;x;                                                   
+13201;66;4;13;hwangju;x;###                                                 
+13202;67;4;76;sariwon;x;                                                    
+13203;68;4;126;haeju;x;                                                     
+13204;69;4;180;Kaeseong;x;                                                  
+13205;70;4;248;cheorwon;x;                                                  
+13206;71;4;13;weili;x;##                                                    
+13207;72;4;76;nanhanseong;x;                                                
+13208;73;4;126;ganghwa;x;                                                   
+13209;74;4;180;suwon;x;                                                     
+13210;75;4;248;chunju;x;                                                    
+13211;76;4;76;danluo;x; ##                                                  
+13212;77;4;76;chongju;x;                                                    
+13213;78;4;126;gongju_buyeo_sibi;x;                                         
+13214;79;4;180;sosan;x;                                                     
+13215;80;244;248;chonju;x;##                                                
+13216;81;4;13;iksan;x;                                                      
+13217;82;244;76;namwon;x;                                                   
+13218;83;4;126;kwangju;x;                                                   
+13219;84;244;180;haenam;x;                                                  
+13220;85;4;248;jinju;x; ##                                                  
+13221;86;244;13;sachon;x;                                                   
+13222;87;4;76;kimhae;x;##                                                   
+13223;88;244;126;changwon;x;                                                
+13224;89;4;180;gyeogju;x;##                                                 
+13225;90;244;248;yangsan;x;                                                 
+13226;91;4;13;dalseong;x;                                                   
+13227;92;244;76;HaeinsaTemple;x;                                            
+13228;93;4;126;SeokguramGrotto;x;                                           
+13229;94;244;180;sanju;x;###                                                
+13230;95;4;248;Anton;x;                                                     
+13231;96;244;13;haman;x;#                                                   
+13232;97;4;76;goryeong;x; #                                                 
+13233;56;4;13;congshiting;x;  #Korea                                        
+13234;51;15;158;Koreawaste;x;   #                                           

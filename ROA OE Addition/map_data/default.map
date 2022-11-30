@@ -18,10 +18,44 @@ seasons = "seasons.txt"
 #####################
 
 # Sea of Okhotsk
-sea_zones = LIST { 13188 13189 13190 13191 }
+sea_zones = LIST { 13188 13189 }
+
+# Terpeniya Bay
+sea_zones = LIST { 13190 }
+
+# Aniva Bay
+sea_zones = LIST { 13191 }
+
+# Tartar Strait
+sea_zones = LIST { 12986 }
+
+# Sakhalin Gulf 
+sea_zones = LIST { 12988 }
 
 #WASTELANDS#
 impassable_mountains = LIST { 13175 }
+
+#####################
+# Korea
+#####################
+
+# Korea Strait
+sea_zones = LIST { 13004 }
+
+# Sea of Japan
+sea_zones = LIST { 12989 12990 12996 12985 }
+
+# Bohai Sea
+sea_zones = LIST { 12991 }
+
+# Korea Bay
+sea_zones = LIST { 12994 }
+
+# Yellow Sea
+sea_zones = LIST { 12987 13001 }
+
+#WASTELANDS#
+impassable_mountains = LIST { 13234 }
 
 #############
 # SEA ZONES
@@ -41,7 +75,7 @@ sea_zones = RANGE { 10583 10608 }
 sea_zones = LIST { 10799 10802 10803 10808 10822 10827 10821 10817 10811 }
 
 # North China Sea
-sea_zones = LIST { 12985 12986 12987 12988 12989 12990 12991 12993 12994 12995 12996 13001 13004 }
+sea_zones = LIST { 12993 12995 }
 # Yellow River
 river_provinces = LIST { 12992 12984 13006 13005 }
 # Yangtze River
