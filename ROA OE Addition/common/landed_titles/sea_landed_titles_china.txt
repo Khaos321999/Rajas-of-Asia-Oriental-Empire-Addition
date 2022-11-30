@@ -1130,6 +1130,8 @@ e_jurchen_china = {
 					color = { 81 133 61 }
 					color2 = { 255 255 255 }
 				}
+            }
+        }
 
 		d_gaya_china = { #迦倻
 			color = { 50 75 50 }
@@ -1534,7 +1536,6 @@ e_jurchen_china = {
 			add = @always_primary_score
 		}
 	}
-    }
 }
 e_celestia_china = {
     color = { 244 252 10 }
