@@ -1,0 +1,211 @@
+﻿
+### Goryeo ###
+
+#开城-满月台
+becp_special_manyuetai = {
+	construction_time = very_slow_construction_time 
+	type_icon = "becp_icon_loutai.dds"
+	type = special
+
+	is_enabled = {
+		scope:holder = {
+			highest_held_title_tier >= tier_kingdom
+		}
+		custom_description = {
+			text = is_capital_barony_trigger
+			county = scope:holder.capital_county
+		}
+	}
+	show_disabled = yes
+	
+	can_construct ={ #建造条件 2
+		culture = {
+			has_innovation = innovation_manorialism 
+		}
+	}
+
+	cost_gold = 2000 
+	cost_piety = 100 
+
+	county_modifier = { 
+		tax_mult = 0.05 #地产赋税 %
+		development_growth_factor = 0.02 #发展增长 %
+	}
+	province_modifier = { 
+		garrison_size = 0.1 #守军规模 %
+		monthly_county_control_change_factor = 0.05 #控制力增长 %
+	}
+	character_modifier = { 
+		monthly_dynasty_prestige_mult = 0.02 
+		monthly_piety = 0.5 
+		vassal_limit = 1 
+		vassal_opinion = 5 
+		knight_limit = 1 
+		monthly_prestige = 0.3 
+		monthly_dynasty_prestige = 0.3 
+		court_grandeur_baseline_add	= 5 
+		clergy_opinion = 10 
+		dynasty_house_opinion = 10 
+		martial_per_prestige_level = 1 #每级威望等级使军事+
+	}
+	ai_value = {
+		base = 6
+	}
+}
+
+#平城-安国寺遗址
+becp_special_anguosi = {
+	construction_time = standard_construction_time #建筑时间-标准
+	type_icon = "becp_icon_miao2.dds"
+	type = special
+
+	county_modifier = { 
+		tax_mult = 0.02 
+		county_opinion_add = 3 
+	}
+	
+	character_modifier = { 
+		monthly_piety = 0.2 
+		stress_loss_mult = 0.05 #压力减少 %
+		clergy_opinion = 10 
+		general_opinion	= 5 
+		same_faith_opinion = 10 
+	}
+	ai_value = {
+		base = 6
+	}
+}
+
+#平壤-安鹤宫
+becp_special_anhegong = {
+	construction_time = very_slow_construction_time 
+	type_icon = "becp_icon_anhegong.dds"
+	type = special
+
+	is_enabled = {
+		scope:holder = {
+			highest_held_title_tier >= tier_kingdom
+		}
+		custom_description = {
+			text = is_capital_barony_trigger
+			county = scope:holder.capital_county
+		}
+	}
+	show_disabled = yes
+	
+	can_construct ={ #建造条件 2
+		culture = {
+			has_innovation = innovation_currency_02 
+			has_innovation = innovation_manorialism 
+		}
+	}
+
+	cost_gold = 2500 
+	cost_piety = 120 
+
+	county_modifier = { 
+		tax_mult = 0.08 #地产赋税 %
+		development_growth_factor = 0.02 #发展增长 %
+	}
+	province_modifier = { 
+		garrison_size = 0.15 #守军规模 %
+		monthly_county_control_change_factor = 0.08 #控制力增长 %
+	}
+	character_modifier = { 
+		monthly_dynasty_prestige_mult = 0.02 
+		vassal_limit = 2 
+		knight_limit = 1 
+		vassal_opinion = 5 
+		monthly_prestige = 0.3 
+		monthly_dynasty_prestige = 0.3 
+		court_grandeur_baseline_add	= 5 
+		clergy_opinion = 8 
+		dynasty_house_opinion = 10 
+		attraction_opinion = 6 
+		martial_per_prestige_level = 1 #每级威望等级使军事+
+	}
+	ai_value = {
+		base = 6
+	}
+}
+
+#大伽耶-海印寺
+becp_special_haiyinsi = {
+	construction_time = standard_construction_time #建筑时间-标准
+	type_icon = "becp_icon_miao2.dds"
+	type = special
+
+	cost_gold = normal_building_tier_1_cost 
+
+	county_modifier = { 
+		tax_mult = 0.03 
+		county_opinion_add = 3 
+	}
+	
+	character_modifier = { 
+		monthly_piety = 0.2 
+		stress_loss_mult = 0.05 #压力减少 %
+		clergy_opinion = 10 
+		general_opinion	= 5 
+		same_faith_opinion = 10 
+	}
+	ai_value = {
+		base = 6
+	}
+}
+
+#尉犁-景福宫
+becp_special_jingfugong = {
+	construction_time = very_slow_construction_time 
+	type_icon = "becp_icon_jingfugong.dds"
+	type = special
+
+	is_enabled = {
+		scope:holder = {
+			highest_held_title_tier >= tier_kingdom
+		}
+		custom_description = {
+			text = is_capital_barony_trigger
+			county = scope:holder.capital_county
+		}
+	}
+
+	show_disabled = yes
+	
+	can_construct ={ #建造条件 2
+		culture = {
+			has_innovation = innovation_manorialism 
+			has_innovation = innovation_royal_prerogative 
+			has_innovation = innovation_cranes 
+		}
+	}
+
+	cost_gold = 3500 
+	cost_piety = 200 
+
+	county_modifier = { 
+		tax_mult = 0.08 #地产赋税 %
+		development_growth_factor = 0.03 #发展增长 %
+	}
+	province_modifier = { 
+		garrison_size = 0.2 #守军规模 %
+		monthly_county_control_change_factor = 0.1 #控制力增长 %
+	}
+	character_modifier = { 
+		monthly_dynasty_prestige_mult = 0.08 
+		vassal_limit = 2 
+		knight_limit = 1 
+		vassal_opinion = 5 
+		monthly_prestige = 0.3 
+		monthly_dynasty_prestige = 0.5 
+		court_grandeur_baseline_add	= 8 
+		clergy_opinion = 8 
+		dynasty_house_opinion = 10 
+		attraction_opinion = 8 
+		learning_per_prestige_level	= 1 #每级威望等级使学识+
+		monthly_learning_lifestyle_xp_gain_mult	= 0.05 #每月生活方式经验值 %
+	}
+	ai_value = {
+		base = 6
+	}
+}

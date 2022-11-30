@@ -73,3 +73,136 @@
 13187 = {
 	winter_severity_bias = 0.80
 }
+
+#KoreanBaronies
+13192 = {
+	winter_severity_bias = 0.40
+}
+13193 = {
+	winter_severity_bias = 0.40
+}
+13194 = {
+	winter_severity_bias = 0.40
+}
+13195 = {
+	winter_severity_bias = 0.40
+}
+13196 = {
+	winter_severity_bias = 0.40
+}
+13197 = {
+	winter_severity_bias = 0.40
+}
+13198 = {
+	winter_severity_bias = 0.40
+}
+13199 = {
+	winter_severity_bias = 0.40
+}
+13200 = {
+	winter_severity_bias = 0.40
+}
+13201 = {
+	winter_severity_bias = 0.40
+}
+13202 = {
+	winter_severity_bias = 0.40
+}
+13203 = {
+	winter_severity_bias = 0.40
+}
+13204 = {
+	winter_severity_bias = 0.40
+}
+13205 = {
+	winter_severity_bias = 0.40
+}
+13206 = {
+	winter_severity_bias = 0.40
+}
+13207 = {
+	winter_severity_bias = 0.40
+}
+13208 = {
+	winter_severity_bias = 0.40
+}
+13209 = {
+	winter_severity_bias = 0.40
+}
+13210 = {
+	winter_severity_bias = 0.40
+}
+13211 = {
+	winter_severity_bias = 0.40
+}
+13212 = {
+	winter_severity_bias = 0.40
+}
+13213 = {
+	winter_severity_bias = 0.40
+}
+13214 = {
+	winter_severity_bias = 0.40
+}
+13215 = {
+	winter_severity_bias = 0.40
+}
+13216 = {
+	winter_severity_bias = 0.40
+}
+13217 = {
+	winter_severity_bias = 0.40
+}
+13218 = {
+	winter_severity_bias = 0.40
+}
+13219 = {
+	winter_severity_bias = 0.40
+}
+13220 = {
+	winter_severity_bias = 0.40
+}
+13221 = {
+	winter_severity_bias = 0.40
+}
+13222 = {
+	winter_severity_bias = 0.40
+}
+13223 = {
+	winter_severity_bias = 0.40
+}
+13224 = {
+	winter_severity_bias = 0.40
+}
+13225 = {
+	winter_severity_bias = 0.40
+}
+13226 = {
+	winter_severity_bias = 0.40
+}
+13227 = {
+	winter_severity_bias = 0.40
+}
+13228 = {
+	winter_severity_bias = 0.40
+}
+13229 = {
+	winter_severity_bias = 0.40
+}
+13230 = {
+	winter_severity_bias = 0.40
+}
+13231 = {
+	winter_severity_bias = 0.40
+}
+13232 = {
+	winter_severity_bias = 0.40
+}
+13233 = {
+	winter_severity_bias = 0.40
+}
+
+#KoreanWastes
+13234 = {
+	winter_severity_bias = 0.60
+}

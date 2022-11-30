@@ -869,6 +869,394 @@ e_jurchen_china = {
             }
         }
     }
+	k_goryeo_china = { #高丽
+		color = { 80 205 255 }
+		
+		
+		capital = c_hanju_china
+
+		cultural_names = {
+			name_list_han = cn_andong
+			name_list_buyeo = d_baekje
+			name_list_yemo = d_buyeo
+		}
+
+		d_goguryeo_china = { # Goryeo
+			color = { 68 95 205 }
+			color2 = { 255 255 255 }
+			
+			capital = c_hanju_china
+			
+			c_hanju_china = {
+				color = { 75 95 240 }
+				color2 = { 255 255 255 }
+				
+				b_weili_china = {
+					province = 13206
+
+					color = { 75 95 240 }
+					color2 = { 255 255 255 }
+				}
+				b_nanhanseong_china = {
+					province = 13207
+
+					color = { 68 195 105 }
+					color2 = { 255 255 255 }
+				}
+				b_ganghwa_china = {
+					province = 13208
+
+					color = { 75 95 240 }
+					color2 = { 255 255 255 }
+				}
+				b_suwon_china = {
+					province = 13209
+
+					color = { 68 195 105 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_hwanghae_china = { #黄海道
+				color = { 85 215 130 }
+				
+				b_kaeseong_china = {
+					province = 13204
+
+					color = { 168 195 205 }
+					color2 = { 255 255 255 }
+				}
+				b_hwangju_china = {
+					province = 13201
+
+					color = { 85 205 150 }
+					color2 = { 255 255 255 }
+				}
+				b_sariwon_china = {
+					province = 13202
+
+					color = { 85 205 150 }
+					color2 = { 255 255 255 }
+				}
+				b_haeju_china = {
+					province = 13203
+
+					color = { 85 205 150 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_chunwon_china = { #中原
+				color = { 75 95 240 }
+
+				b_chunju_china = {
+					province = 13210
+
+					color = { 68 195 105 }
+					color2 = { 255 255 255 }
+				}
+				b_wonju_china = {
+					province = 13198
+
+					color = { 205 205 255 }
+					color2 = { 255 255 255 }
+				}
+				b_chechon_china = {
+					province = 13200
+
+					color = { 205 205 255 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_baekje_china = { #百济
+			color = { 80 190 45 }
+			
+			
+			capital = c_xiongshanzhou_china
+
+			c_xiongshanzhou_china = { #熊川州/所夫里/忠清道
+				color = { 70 190 55 }
+				
+				b_gongju_buyeo_sibi_china = {
+					province = 13213
+
+					color = { 70 190 55 }
+					color2 = { 255 255 255 }
+				}
+				b_chongju_china = {
+					province = 13212
+
+					color = { 70 190 55 }
+					color2 = { 255 255 255 }
+				}
+				b_sosan_china = {
+					province = 13214
+
+					color = { 70 190 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_wanshanzhou_china = { #完山州/全州
+				color = { 65 205 40 }
+				
+				
+				b_chonju_china = {
+					province = 13215
+
+					color = { 65 205 40 }
+					color2 = { 255 255 255 }
+				}
+				b_iksan_china = {
+					province = 13216
+
+					color = { 65 205 40 }
+					color2 = { 255 255 255 }
+				}
+				b_namwon_china = {
+					province = 13217
+
+					color = { 65 205 40 }
+					color2 = { 255 255 255 }
+				}
+			}	
+
+			c_faluozhou_china = { #武珍州/发罗
+				color = { 75 185 40 }
+				
+				b_naju_china = {
+					province = 13218
+
+					color = { 75 185 40 }
+					color2 = { 255 255 255 }
+				}
+				b_yosn_china = {
+					province = 13219
+
+					color = { 75 185 40 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_danluo_china = { #
+			color = { 186 133 61 }
+			
+
+			capital = c_danluo_china
+
+			c_danluo_china = {
+				color = { 85 190 50 }
+				color2 = { 255 255 255 }
+			
+				b_danluo_china = {
+					province = 13211
+
+					color = { 85 190 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}			
+
+		d_sila_china = { #新罗/庆尚道
+			color = { 86 133 61 }
+			
+			
+			capital = c_shaliangzhou_china
+			
+			c_shaliangzhou_china = {
+				color = { 86 143 61 }
+				color2 = { 255 255 255 }
+				
+				b_gyeogju_china = {
+					province = 13224
+					
+					color = { 86 143 61  }
+					color2 = { 255 255 255 }
+				}
+				b_SeokguramGrotto_china = {
+					province = 13228
+					
+					color = { 86 143 61  }
+					color2 = { 255 255 255 }
+				}
+				b_yangsan_china = {
+					province = 13225
+					
+					color = { 81 143 61 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_dalseong_china = {
+				color = { 81 143 61 }
+				color2 = { 255 255 255 }
+
+				b_HaeinsaTemple_china = {
+					province = 13227
+					
+					color = { 50 75 50 }
+					color2 = { 255 255 255 }
+				}
+				b_dalseong_china = {
+					province = 13226
+					
+					color = { 81 143 61 }
+					color2 = { 255 255 255 }
+				}
+
+			}
+
+			c_shangfazhou_china = { #沙伐州/尚州
+				color = { 81 133 61 }
+
+				b_sanju_china = {
+					province = 13229
+					
+					color = { 81 133 61 }
+					color2 = { 255 255 255 }
+				}
+				b_anton_china = {
+					province = 13230
+					
+					color = { 81 143 61 }
+					color2 = { 255 255 255 }
+				}
+				b_yongju_china = {
+					province = 13199
+
+					color = { 81 133 61 }
+					color2 = { 255 255 255 }
+				}
+
+		d_gaya_china = { #迦倻
+			color = { 50 75 50 }
+			
+			
+			capital = c_gayaa_china
+
+			c_gayaa_china = {
+				color = { 50 75 50 }
+				color2 = { 255 255 255 }
+
+				b_kimhae_china = {
+					province = 13222
+
+					color = { 50 75 50 }
+					color2 = { 255 255 255 }
+				}
+				b_changwon_china = {
+					province = 13223
+
+					color = { 50 75 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_juliezhou_china = { #居烈州/菁州/康州
+				color = { 62 95 44 }
+
+				b_jinju_china = {
+					province = 13220
+
+					color = { 62 95 44 }
+					color2 = { 255 255 255 }
+				}
+				b_sachon_china = {
+					province = 13221
+
+					color = { 62 95 44 }
+					color2 = { 255 255 255 }
+				}
+				b_haman_china = {
+					province = 13231
+
+					color = { 62 95 44 }
+					color2 = { 255 255 255 }
+				}
+				b_goryeong_china = {
+					province = 13232
+
+					color = { 62 95 44 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_dongya_china = { #东濊/江原道
+			color = { 150 100 150 }
+			
+
+			capital = c_shouruozhou_china
+
+			c_shouruozhou_china = {
+				color = { 195 95 145 }
+				color2 = { 255 255 255 }
+				
+				b_chunchon_china = {
+					province = 13197
+
+					color = { 95 195 245 }
+					color2 = { 255 255 255 }
+				}
+				b_cheorwon_china = {
+					province = 13205
+
+					color = { 95 195 245 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_anbyun_china = {
+				color = { 95 195 245 }
+
+				b_wonsan_china = {
+					province = 13196
+
+					color = { 95 195 245 }
+					
+				}
+				b_sogcho_china = {
+					province = 13192
+
+					color = { 105 255 155 }
+					color2 = { 255 255 255 }
+				}
+				b_congshiting_china = {
+					province = 13233
+
+					color = { 105 255 155 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_hexizhou_china = { #何瑟罗州/河西/溟州/悉直
+				color = { 105 205 255 }
+
+				b_kangnung_china = {
+					province = 13193
+
+					color = { 205 205 255 }
+					color2 = { 255 255 255 }
+				}
+				b_tonghae_china = {
+					province = 13194
+
+					color = { 105 205 255 }
+					color2 = { 255 255 255 }
+				}
+				b_ulchin_china = {
+					province = 13195
+
+					color = { 105 205 255 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}		
+	}
+
+
     k_goguryeo_china = {
         color = { 117 97 139 }
 
@@ -1117,6 +1505,35 @@ e_jurchen_china = {
                 }
             }
         }
+    }
+	k_silla = { 
+		color = { 35 34 228 }
+		
+		capital = c_shaliangzhou_china
+		destroy_if_invalid_heir = yes
+	
+			cultural_names = {
+				name_list_goguryeo = k_goryeo
+				name_list_han = cn_andong
+				name_list_buyeo = d_buyeo
+				name_list_yemo = d_baekje
+			}
+	}	
+	k_majin = { 
+		color = { 185 184 8 }
+		
+		capital = c_hanju_china
+		destroy_if_invalid_heir = yes
+		
+	}
+	k_jeongan = {
+		color = { 18 234 233 }
+		capital = c_huhan_china
+		destroy_if_invalid_heir = yes
+		ai_primary_priority = {
+			add = @always_primary_score
+		}
+	}
     }
 }
 e_celestia_china = {
