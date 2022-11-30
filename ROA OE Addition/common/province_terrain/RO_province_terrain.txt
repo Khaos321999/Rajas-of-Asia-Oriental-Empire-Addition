@@ -1,0 +1,14 @@
+﻿## Far Eastern Tartaria ##
+
+13176=wetlands
+13177=taiga
+13178=wetlands
+13179=taiga
+13180=taiga
+13181=taiga
+13182=taiga
+13183=wetlands
+13184=taiga
+13185=taiga
+13186=wetlands
+13187=wetlands

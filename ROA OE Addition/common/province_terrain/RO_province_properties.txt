@@ -1,0 +1,75 @@
+﻿# Some provinces use override modifiers, which makes them use the override values instead of default WINTER_EFFECTS_FACTOR_XXX as set in 00_defines.txt
+# These are:
+# mild_winter_factor_override
+# normal_winter_factor_override
+# harsh_winter_factor_override
+##################
+
+# 0.0 Winter values come after all nonzero winter provinces in this file
+
+##################
+# WINTER VALUES
+##################
+#Base Game:
+#@himalayan_mountains = 0.90
+#@tibetan_mountains = 0.80
+#RIC Additions [Currently done mostly by county]
+#Mountainous Burma/Nanzhao = 0.7
+#Northern Burma/Nanzhao = 0.3 - unlikely snow, but <10 days
+#Northern mild winter = 0.1 - no snow in a normal year, but may snow
+
+####
+
+#ChinaWastes
+13175 = {
+	winter_severity_bias = 0.40
+}
+
+#Ochishi
+13176 = {
+	winter_severity_bias = 0.35
+}
+#Piltun
+13177 = {
+	winter_severity_bias = 0.35
+}
+#Susuya
+13178 = {
+	winter_severity_bias = 0.35
+}
+#Honto
+13179 = {
+	winter_severity_bias = 0.35
+}
+#Mo-Tomari
+13180 = {
+	winter_severity_bias = 0.35
+}
+#Esutoru
+13181 = {
+	winter_severity_bias = 0.35
+}
+#Teken
+13182 = {
+	winter_severity_bias = 0.80
+}
+#Sayy
+13183 = {
+	winter_severity_bias = 0.80
+}
+#Atang
+13184 = {
+	winter_severity_bias = 0.80
+}
+#KuviehNorth
+13185 = {
+	winter_severity_bias = 0.80
+}
+#KuviehSouth
+13186 = {
+	winter_severity_bias = 0.80
+}
+#KuviehEast
+13187 = {
+	winter_severity_bias = 0.80
+}
