@@ -1,0 +1,12 @@
+1)
+common\on_action\bianjing_oe_start_on_actions.txt
+
+includes two japanese baronies that are not yet implemented
+
+b_sado
+b_iwami
+
+2)
+There was supposed to be a special building in the newly added Sakhalian Island, north of Hokkaido
+
+In the County/Barony of Longori
