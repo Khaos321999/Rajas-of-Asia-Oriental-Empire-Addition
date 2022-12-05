@@ -1,0 +1,174 @@
+e_nippon = {
+	color = { 201 18 12 }
+
+	capital = c_yamashiro
+
+	cultural_names = {
+		name_list_ainu = k_hitakami
+		name_list_yilou = cn_yilou
+		name_list_udege = cn_urge
+	}
+
+	k_hitakami = {
+		color = { 22 141 50 }
+
+		capital = c_rikuzen
+
+
+		d_hokkai = {
+			color = { 218 118 245 }
+
+			capital = c_oshima
+
+			c_oshima = {
+				color = { 252 139 247 }
+
+				b_hakodate= {
+					province = 13236
+
+					color = { 252 139 247 }
+				}
+				b_hiyama= {
+					province = 13241
+
+					color = { 252 139 247 }
+				}
+				b_yamakoshi= {
+					province = 13252
+
+					color = { 252 139 247 }
+				}
+				b_yufutsu= {
+					province = 13242
+
+					color = { 252 139 247 }
+				}
+				b_abuta= {
+					province = 13246
+
+					color = { 252 139 247 }
+				}
+			}
+
+			c_hidaka = {
+				color = { 100 158 150 }
+
+				b_saru= {
+					province = 13243
+
+					color = { 100 158 150 }
+				}
+				b_samani= {
+					province = 13254
+
+					color = { 100 158 150 }
+				}
+			}
+
+			c_ishikari = {
+				color = { 173 101 73 }
+
+				b_ishikari= {
+					province = 13244
+
+					color = { 173 101 73 }
+				}
+				b_sorachi= {
+					province = 13238
+
+					color = { 173 101 73 }
+				}
+				b_kamikawa= {
+					province = 13245
+
+					color = { 173 101 73 }
+				}
+				b_shiribeshi= {
+					province = 13253
+
+					color = { 173 101 73 }
+				}
+			}
+
+			c_teshio = {
+				color = { 77 153 149 }
+
+				b_mashike= {
+					province = 13248
+
+					color = { 77 153 149 }
+				}
+				b_teshio= {
+					province = 13257
+
+					color = { 77 153 149 }
+				}
+				b_nakagawa= {
+					province = 13250
+
+					color = { 77 153 149 }
+				}
+				b_soya= {
+					province = 13255
+
+					color = { 77 153 149 }
+				}
+			}
+
+			c_kushiro = {
+				color = { 205 212 76 }
+
+				b_kushiro= {
+					province = 13247
+
+					color = { 205 212 76 }
+				}
+				b_akkeshi= {
+					province = 13239
+
+					color = { 205 212 76 }
+				}
+				b_ashoro= {
+					province = 13240
+
+					color = { 205 212 76 }
+				}
+				b_tokachi= {
+					province = 13258
+
+					color = { 205 212 76 }
+				}
+				b_shihoro= {
+					province = 13256
+
+					color = { 205 212 76 }
+				}
+			}
+
+			c_nemuro = {
+				color = { 65 99 98 }
+
+				b_nemuro= {
+					province = 13251
+
+					color = { 65 99 98 }
+				}
+				b_chishima= {
+					province = 13260
+
+					color = { 65 99 98 }
+				}
+				b_monbetsu= {
+					province = 13249
+
+					color = { 65 99 98 }
+				}
+				b_abashiri= {
+					province = 13237
+
+					color = { 65 99 98 }
+				}
+			}
+		}
+	}
+}
