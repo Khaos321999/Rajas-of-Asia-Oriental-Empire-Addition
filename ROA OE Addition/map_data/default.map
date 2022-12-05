@@ -57,6 +57,19 @@ sea_zones = LIST { 12987 13001 }
 #WASTELANDS#
 impassable_mountains = LIST { 13234 }
 
+#####################
+# Japan
+#####################
+
+# Kuril Archipelago
+sea_zones = LIST { 13261 }
+
+# Pacific Coast
+sea_zones = LIST { 13262 13263 }
+
+# Tsugaru Strait
+sea_zones = LIST { 13235 }
+
 #############
 # SEA ZONES
 #############
