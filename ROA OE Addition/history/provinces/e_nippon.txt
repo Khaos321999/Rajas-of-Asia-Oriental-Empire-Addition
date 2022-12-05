@@ -1,0 +1,88 @@
+
+#k_yamato 
+#d_hokkai 
+#c_oshima 
+#b_hakodate
+13236 = {
+	culture = ainu
+	religion = ainu
+	holding = tribal_holding
+}
+#b_hiyama
+13241 = {}
+#b_yamakoshi
+13252 = {}
+#b_yufutsu
+13242 = {}
+#b_abuta
+13246 = {}
+#c_hidaka 
+#b_saru
+13243 = {
+	culture = ainu
+	religion = ainu
+	holding = tribal_holding
+}
+#b_samani
+13254 = {}
+#c_ishikari 
+#b_ishikari
+13244 = {
+	culture = ainu
+	religion = ainu
+	holding = tribal_holding
+}
+#b_sorachi
+13238 = {}
+#b_kamikawa
+13245 = {}
+#b_shiribeshi
+13253 = {}
+#c_teshio 
+#b_mashike
+13248 = {
+	culture = ainu
+	religion = ainu
+	holding = tribal_holding
+}
+#b_teshio
+13257 = {}
+#b_nakagawa
+13250 = {}
+#b_soya
+13255 = {}
+#c_kushiro 
+#b_kushiro
+13247 = {
+	culture = ainu
+	religion = ainu
+	holding = tribal_holding
+}
+#b_akkeshi
+13239 = {}
+#b_ashoro
+13240 = {}
+#b_tokachi
+13258 = {}
+#b_shihoro
+13256 = {}
+#c_nemuro 
+#b_nemuro
+13251 = {
+	culture = ainu
+	religion = ainu
+	holding = tribal_holding
+}
+#b_chishima
+13260 = {}
+#b_monbetsu
+13249 = {}
+#b_abashiri
+13237 = {}
+
+#test
+11388 = {
+	culture = yamato
+	religion = shinto
+	holding = tribal_holding
+}
